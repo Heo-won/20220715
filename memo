@@ -1,0 +1,9 @@
+contains -> class 가 있는지 없는지 확인해줌
+있으면 true 없으면 false
+
+
+addEventListener
+1. 어떤 이벤트가 일어나는지
+2. 어떤 명령을 실행시킬 것인지
+
+
